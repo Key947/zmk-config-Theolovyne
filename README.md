@@ -1,3 +1,1 @@
-# zmk-config-Theolovyne By Laverda
-
-Perubahan kedua
+# Theolovyne ZMK Mechanical Keyboard By Key947 
